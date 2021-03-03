@@ -28,6 +28,10 @@ Sometimes you want to use an editor when using command line git (such as when yo
 
 ## Resources
 
+Command line resources include:
+
+
+
 Provide links to any resources that may be useful in running the repo (python/git/accre tutorials etc). \
 
 ## Videos
